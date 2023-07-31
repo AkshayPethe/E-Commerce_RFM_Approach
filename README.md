@@ -51,4 +51,4 @@ To run the project, you need Python and the required dependencies installed on y
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/e-commerce-customer-segmentation.git
+1. Clone the repository: git clone https://github.com/AkshayPethe/e-commerce-customer-segmentation.git
