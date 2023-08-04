@@ -30,11 +30,14 @@ The data used for this project is anonymized customer transaction data, includin
 
 2. **RFM Analysis**: Computing Recency, Frequency, and Monetary values for each customer based on their transaction history.
 
-3. **K-means Clustering**: Applying K-means clustering algorithm to segment customers based on their RFM values.
+3. **Clustering Techniques**: Applying K-means,DBSCAN,Agglomerative clustering algorithm to segment customers based on their RFM values.
+
+4. **Clustering Evaluation**: Evaluating the different algorithm on the basis of Silhoutee Score,Davies-Bouldin Index and with
+   different Visualization of Clusters.
 
 ## Results
 
-The analysis and clustering results are visualized and summarized to provide insights into different customer segments. The final output includes the identified customer clusters and their corresponding characteristics.
+The analysis and clustering results are visualized and summarized to provide insights into different customer segments. The final output includes the identified customer clusters and their corresponding characteristics on the basis of evaluation of different Clustering Algorithm.
 
 ## Usage
 
