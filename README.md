@@ -1,5 +1,5 @@
 # E-Commerce_RFM_Approach
-![Customer Segmentation](https://github.com/AkshayPethe/Predictive_Maintainence/blob/main/image/FeaturedImage-WhatIsPdM-PredictiveMaintenance-2022%20(3).jpg)
+![Customer Segmentation](https://github.com/AkshayPethe/E-Commerce_RFM_Approach/blob/main/image/Customer-Segmentation.jpg)
 
 ## Introduction
 
