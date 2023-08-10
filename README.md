@@ -1,4 +1,6 @@
 # E-Commerce_RFM_Approach
+![Customer Segmentation](https://github.com/AkshayPethe/Predictive_Maintainence/blob/main/image/FeaturedImage-WhatIsPdM-PredictiveMaintenance-2022%20(3).jpg)
+
 ## Introduction
 
 This is a data analysis project that focuses on customer segmentation in an E-Commerce context. The primary objective of this project is to cluster customers into distinct groups based on their behavior and purchasing patterns. The segmentation is achieved through a combination of K-means clustering and Recency Frequency Monetary (RFM) analysis.
